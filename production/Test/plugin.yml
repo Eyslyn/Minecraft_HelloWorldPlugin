@@ -1,0 +1,8 @@
+name: HelloWorld
+
+main: HelloWorldPlugin
+
+commands:
+
+
+version: 0.1
