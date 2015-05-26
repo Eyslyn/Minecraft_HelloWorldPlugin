@@ -3,6 +3,17 @@ name: HelloWorld
 main: HelloWorldPlugin
 
 commands:
+    hello:
+     description: Say Hello to everyone!
+     usage: /hello
+
+    killPlayer:
+     description: Kill Player
+     usage: /killPlayer <PlayerName>
+
+    sneak:
+     description: Sneaking
+     usage: /sneak
 
 
-version: 0.1
+version: 0.2
